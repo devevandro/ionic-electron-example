@@ -1,5 +1,4 @@
-# An desktop project build with ionic-capacitor-angular and electron js
-# An simple example
+# Desktop project build with ionic-capacitor-angular and Electron JS
 
 Description
 
@@ -8,7 +7,7 @@ Description
 ionic start example blank --type=angular --capacitor
 ```
 
-- or if you have been an project enable capacitor in your project:
+- or if you have been a project just enable capacitor in your project:
 ```shell
 ionic integrations enable capacitor
 ```
